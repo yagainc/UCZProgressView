@@ -10,9 +10,6 @@
 
 @interface UCZProgressView ()
 
-@property (nonatomic) CALayer *backgroundLayer;
-@property (nonatomic) CAShapeLayer *progressLayer;
-
 @end
 
 @implementation UCZProgressView
